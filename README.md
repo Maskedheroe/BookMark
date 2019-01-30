@@ -15,5 +15,8 @@
    
    https://mp.weixin.qq.com/s/NBrEwFI8e8xtLsX0uadm7w . 
    
-   https://mp.weixin.qq.com/s/B-MWKbKrYhiXHmntkrrb-A . <面经集合>
+   https://mp.weixin.qq.com/s/B-MWKbKrYhiXHmntkrrb-A .<面经集合>
+   
+   http://www.jianshu.com/nb/1078552  .
+   
    收集的面经
