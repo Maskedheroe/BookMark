@@ -23,9 +23,12 @@
    
    收集的面经
 
-   NestedScrollView嵌套RecyclerView 问题汇总
+6. NestedScrollView嵌套RecyclerView 问题汇总
    https://www.cnblogs.com/fuyaozhishang/p/8232378.html  
 
-   很全的学习资源总结
+7. 很全的学习资源总结
    https://github.com/lizhangqu/CoreLink
   
+8. 多样式条目RecyclerView实现
+   https://github.com/xuehuayous/DelegationAdapter  
+ 
