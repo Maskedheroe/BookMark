@@ -33,4 +33,7 @@
   
 8. 多样式条目RecyclerView实现
    https://github.com/xuehuayous/DelegationAdapter  
+
+9. 比较全面的知识点总结--学习到了性能优化
+   http://www.cnblogs.com/ldq2016/p/6667381.html
  
