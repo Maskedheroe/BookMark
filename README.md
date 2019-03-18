@@ -36,4 +36,6 @@
 
 9. 比较全面的知识点总结--学习到了性能优化
    http://www.cnblogs.com/ldq2016/p/6667381.html
+   
+10. DiskLruCache + MD5 实战demo   
  
