@@ -42,3 +42,5 @@
 10. DiskLruCache + MD5 实战demo   
  
 11、Retrofit 实战大总结
+
+12、http://www.cnblogs.com/jenry/archive/2012/02/12/2347983.html 梁友栋裁剪算法
