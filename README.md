@@ -1,10 +1,30 @@
 # BookMark
 由于收集的各类资源纷繁复杂 做一个网页的书签标记  
 
+杂项：
+====
 1. https://mp.weixin.qq.com/s/gxBfTPUGtOOBbQrt1tS9ow     //透明状态栏终极总结
 2. 我的算法之路  --位于书签中
 3. henCode  --书签中(自定义控件)
 4. opengl   --书签中
+6. NestedScrollView嵌套RecyclerView 问题汇总
+   https://www.cnblogs.com/fuyaozhishang/p/8232378.html  
+
+7. 很全的学习资源总结
+   https://github.com/lizhangqu/CoreLink
+  
+8. 多样式条目RecyclerView实现
+   https://github.com/xuehuayous/DelegationAdapter  
+
+9. 比较全面的知识点总结--学习到了性能优化
+   http://www.cnblogs.com/ldq2016/p/6667381.html
+   
+10. DiskLruCache + MD5 实战demo   
+ 
+11、Retrofit 实战大总结
+
+收集的面经
+====
 5. https://mp.weixin.qq.com/s/Z7rH0c3c4693YfPe5LAE5A . 
 
    https://mp.weixin.qq.com/s/H1Nm3upXT-f-jyf2rpT7XQ . 
@@ -25,27 +45,16 @@
    
    http://www.jackywang.tech/AndroidInterview-Q-A/interview/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4.html <题目集合+解答>
    
-   收集的面经
-
-6. NestedScrollView嵌套RecyclerView 问题汇总
-   https://www.cnblogs.com/fuyaozhishang/p/8232378.html  
-
-7. 很全的学习资源总结
-   https://github.com/lizhangqu/CoreLink
-  
-8. 多样式条目RecyclerView实现
-   https://github.com/xuehuayous/DelegationAdapter  
-
-9. 比较全面的知识点总结--学习到了性能优化
-   http://www.cnblogs.com/ldq2016/p/6667381.html
-   
-10. DiskLruCache + MD5 实战demo   
  
-11、Retrofit 实战大总结
+   
+             
+进阶学习：
+======
+一、图形学
+   http://www.cnblogs.com/jenry/archive/2012/02/12/2347983.html 梁友栋裁剪算法
+   
+二、NDK与音视频   
+音视频入门  https://zhuanlan.zhihu.com/p/28518637
 
-12、http://www.cnblogs.com/jenry/archive/2012/02/12/2347983.html 梁友栋裁剪算法
-
-13、音视频入门  https://zhuanlan.zhihu.com/p/28518637
-
-14、NDK开发   https://blog.csdn.net/Young_Time/article/details/80346631
-             https://blog.csdn.net/kong_gu_you_lan/article/details/79091789
+NDK开发     https://blog.csdn.net/Young_Time/article/details/80346631
+           https://blog.csdn.net/kong_gu_you_lan/article/details/79091789
