@@ -23,6 +23,8 @@
  
 11、Retrofit 实战大总结 . https://www.jianshu.com/p/74f46ae1fabb
 
+12、kotlin协程操作   https://www.jianshu.com/p/25b1625cd0e5
+
 收集的面经
 ====
 5. https://mp.weixin.qq.com/s/Z7rH0c3c4693YfPe5LAE5A . 
