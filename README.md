@@ -46,3 +46,6 @@
 12、http://www.cnblogs.com/jenry/archive/2012/02/12/2347983.html 梁友栋裁剪算法
 
 13、音视频入门  https://zhuanlan.zhihu.com/p/28518637
+
+14、NDK开发   https://blog.csdn.net/Young_Time/article/details/80346631
+             https://blog.csdn.net/kong_gu_you_lan/article/details/79091789
