@@ -60,3 +60,5 @@
 
 NDK开发     https://blog.csdn.net/Young_Time/article/details/80346631
            https://blog.csdn.net/kong_gu_you_lan/article/details/79091789
+           
+Gradle核心思想 刘望舒 http://liuwangshu.cn/application/gradle/1-study-gradle.html             
